@@ -1,0 +1,210 @@
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanWinFormUI.exe.config
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanWinFormUI.exe
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanWinFormUI.pdb
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Data.v17.1.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Utils.v17.1.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraBars.v17.1.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\EntityFramework.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanDataLayer.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanModel.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanDataLayer.pdb
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanDataLayer.dll.config
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanModel.pdb
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanModel.dll.config
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Data.v17.1.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Utils.v17.1.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraBars.v17.1.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\EntityFramework.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.csprojResolveAssemblyReference.cache
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.Form1.resources
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.Properties.Resources.resources
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.csproj.GenerateResource.Cache
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.exe.licenses
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.csproj.CoreCompileInputs.cache
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.exe
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.pdb
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Office.v17.1.Core.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Office.v17.1.Core.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.Views.Copper.CopperStandartForm.resources
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanWinFormUI.exe.config
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanWinFormUI.exe
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanWinFormUI.pdb
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\EntityFramework.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanDataLayer.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanModel.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanDataLayer.pdb
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanDataLayer.dll.config
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanModel.pdb
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\NursanModel.dll.config
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\EntityFramework.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.Form1.resources
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.Properties.Resources.resources
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.Views.Copper.CopperStandartForm.resources
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.csproj.GenerateResource.Cache
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.exe.licenses
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.exe
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.pdb
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.csprojAssemblyReference.cache
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.Form1.resources
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.Properties.Resources.resources
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.Views.Copper.CopperStandartForm.resources
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.csproj.GenerateResource.cache
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.exe.licenses
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.exe
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanWinFormUI\obj\Debug\NursanWinFormUI.pdb

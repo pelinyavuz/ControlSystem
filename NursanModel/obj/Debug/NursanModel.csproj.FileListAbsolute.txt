@@ -1,0 +1,34 @@
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanModel\bin\Debug\NursanModel.dll.config
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanModel\bin\Debug\NursanModel.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanModel\bin\Debug\NursanModel.pdb
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanModel\obj\Debug\NursanModel.csprojResolveAssemblyReference.cache
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanModel\obj\Debug\NursanModel.csproj.CoreCompileInputs.cache
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanModel\obj\Debug\NursanModel.dll
+c:\users\debug\documents\visual studio 2017\Projects\NursanControlSystem\NursanModel\obj\Debug\NursanModel.pdb
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\NursanModel.dll.config
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\NursanModel.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\NursanModel.pdb
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\obj\Debug\NursanModel.csprojResolveAssemblyReference.cache
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\obj\Debug\NursanModel.csproj.CoreCompileInputs.cache
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\obj\Debug\NursanModel.dll
+C:\Users\RESPECT\Desktop\Videolar\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\obj\Debug\NursanModel.pdb
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\NursanModel.dll.config
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\NursanModel.dll
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\NursanModel.pdb
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.dll
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.xml
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\obj\Debug\NursanModel.csprojAssemblyReference.cache
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\obj\Debug\NursanModel.csproj.CoreCompileInputs.cache
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\obj\Debug\NursanModel.csproj.CopyComplete
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\obj\Debug\NursanModel.dll
+C:\Users\pelin_da4fvpa\Desktop\PelinYavuz\Asp.Net\mVC\Proje\NursanControlSystem\NursanModel\obj\Debug\NursanModel.pdb
